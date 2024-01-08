@@ -8,4 +8,4 @@ export const ETHERSCAN_URL = "https://polygonscan.com"
 export const UNISWAP_INFO_URL = "https://info.uniswap.org/#/polygon/pools"
 
 export const SSL_CONTRACT_ADDRESS =
-  "0x9fbBF71f22855Ecb34D646077f95FA9A121AED1F" as `0x${string}`
+  "0x6f033211B6d7DDB533B9A83fFDDE50Ac0B6bDeA7" as `0x${string}`
